@@ -4,4 +4,7 @@ I see blockchain as a technology that empowers people for the first time to chal
 
 Oh and I also like scuba diving, photography, live music and good food 🤘🚀.
 
-![](https://i.imgur.com/YOU2wcD.gif)
+
+<p align="center">
+  <img src="https://i.imgur.com/YOU2wcD.gif" width="200">
+</p>
