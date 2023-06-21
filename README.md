@@ -10,5 +10,5 @@ Oh and I also like scuba diving, photography, live music and good food 🤘🚀.
 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismaree)](https://chrismaree.dev)
+[![Chris GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismaree)](https://chrismaree.dev)
 
