@@ -7,4 +7,8 @@ Oh and I also like scuba diving, photography, live music and good food 🤘🚀.
 
 <p align="center">
   <img src="https://i.imgur.com/YOU2wcD.gif" width="200">
+
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismaree)](https://chrismaree.dev)
+
